@@ -1,0 +1,1 @@
+//! See the [crate::matrices::matrix_types::transpose].

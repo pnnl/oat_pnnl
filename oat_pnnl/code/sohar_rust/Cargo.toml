@@ -1,0 +1,22 @@
+[package]
+name = "sohar_rust"
+version = "0.1.0"
+authors = ["Gregory Henselman-Petrusek Roek<gregory.roek@pnnl.gov>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+assert-panic = "1.0.1"
+auto_impl = "0.4.1"
+indicatif = "0.17.2"
+itertools = "0.10.0"
+num = "0.4.0"
+num-traits = "0.2.14"
+primes = "0.3.0"
+ordered-float = "3.4.0"
+rand = "0.8.3"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0.42"
+# debugit = "0.2.0"
+oat_rust = { path = "../oat_rust" }

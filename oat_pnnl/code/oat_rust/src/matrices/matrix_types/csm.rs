@@ -1,0 +1,7 @@
+/// Compressed sparse matrices.
+/// 
+/// These matrix oracles are not yet implemented.
+/// 
+/// PERHAPS THERE SHOULD BE TWO TYPES OF CSM MATRICES, 
+/// ONE WHERE THE ENTRIES IN EACH MAJOR VECTOR ARE IN SORTED ORDER, 
+/// AND ONE WHERE WE DON'T ASSUME THAT THE ENTRIES ARE SORTED?
