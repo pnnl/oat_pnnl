@@ -37,8 +37,6 @@ If you're stuck or don't know where to begin, then you're in good company -- we'
 
 # Project overview
 
-Open Applied Topology has three components:
-
 - OAT
   - A high-performance, low-level software package written in pure Rust
   - Registered on `crates.io` as `oat_rust`
