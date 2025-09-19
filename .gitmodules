@@ -1,0 +1,6 @@
+[submodule "oat_rust_pnnl"]
+	path = oat_rust_pnnl
+	url = https://github.com/pnnl/oat_rust_pnnl.git
+[submodule "oat_python_pnnl"]
+	path = oat_python_pnnl
+	url = https://github.com/pnnl/oat_python_pnnl.git
